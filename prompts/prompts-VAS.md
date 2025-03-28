@@ -67,3 +67,10 @@ src/domain/models/Position.ts(1,10): error TS2305: Module '"@prisma/client"' has
 src/domain/models/Resume.ts(1,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
 src/domain/models/WorkExperience.ts(1,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
 src/index.ts(3,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
+
+
+# Prompt 8
+
+Perfecto ya funciona. Ahora parece que el paso de deploy no funciona:
+This job was skipped
+
